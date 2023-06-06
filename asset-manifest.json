@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/static/js/main.0ab1e330.js",
-    "static/js/273.751e6ebe.js": "/static/js/273.751e6ebe.js",
-    "static/media/island.mp3": "/static/media/island.22bdf0b90222164e11ee.mp3",
-    "static/media/candle.png": "/static/media/candle.466e7cef9fdbb6aa41f0.png",
-    "static/media/player.jpg": "/static/media/player.b0a9ffe0922bb4b597b9.jpg",
-    "static/media/card.jpg": "/static/media/card.13df847b4cad8bd0c470.jpg",
-    "favicon.ico": "/favicon.ico",
-    "index.html": "/index.html",
-    "favicon-32.png": "/favicon-32.png",
-    "favicon-16.png": "/favicon-16.png",
-    "serve.json": "/serve.json",
-    "manifest.json": "/manifest.json",
-    "main.0ab1e330.js.map": "/static/js/main.0ab1e330.js.map",
-    "273.751e6ebe.js.map": "/static/js/273.751e6ebe.js.map"
+    "main.js": "/jumpgame/static/js/main.3a2c9420.js",
+    "static/js/273.751e6ebe.js": "/jumpgame/static/js/273.751e6ebe.js",
+    "static/media/island.mp3": "/jumpgame/static/media/island.22bdf0b90222164e11ee.mp3",
+    "static/media/candle.png": "/jumpgame/static/media/candle.466e7cef9fdbb6aa41f0.png",
+    "static/media/player.jpg": "/jumpgame/static/media/player.b0a9ffe0922bb4b597b9.jpg",
+    "static/media/card.jpg": "/jumpgame/static/media/card.13df847b4cad8bd0c470.jpg",
+    "favicon.ico": "/jumpgame/favicon.ico",
+    "index.html": "/jumpgame/index.html",
+    "favicon-32.png": "/jumpgame/favicon-32.png",
+    "favicon-16.png": "/jumpgame/favicon-16.png",
+    "serve.json": "/jumpgame/serve.json",
+    "manifest.json": "/jumpgame/manifest.json",
+    "main.3a2c9420.js.map": "/jumpgame/static/js/main.3a2c9420.js.map",
+    "273.751e6ebe.js.map": "/jumpgame/static/js/273.751e6ebe.js.map"
   },
   "entrypoints": [
     "static/js/273.751e6ebe.js",
-    "static/js/main.0ab1e330.js"
+    "static/js/main.3a2c9420.js"
   ]
 }
